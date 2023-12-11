@@ -1,8 +1,8 @@
 <img
   align="right"
-  src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm%2Fissues%2F4131&psig=AOvVaw2rymynZljs-3-AYTkOIW-l&ust=1702349180009000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLirwI2vhoMDFQAAAAAdAAAAABAD](https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)"
-  width="100"
-  height="100"
+  src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"
+  width="50%"
+  height="100%"
 />
 <h1 align="center">Hi 👋, I'm Het Modi</h1>
 <h3 align="center">Exploring code, creating future</h3>
@@ -32,6 +32,8 @@
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetmodi2708&show_icons=true&locale=en&layout=compact" alt="hetmodi2708" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetmodi2708&show_icons=true&locale=en" alt="hetmodi2708" /></p>
 
