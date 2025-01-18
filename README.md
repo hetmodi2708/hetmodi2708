@@ -10,11 +10,11 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetmodi2708" alt="hetmodi2708" /></a> </p>
 -->
-- 🌱 I’m currently learning **Node.js, Express.js, Typescript**
+- 🌱 I’m currently learning **AWS Cloud Practitioner**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hetmodi2708](https://github.com/hetmodi2708)
 
-- 💬 Ask me about **React.js, Android Studio, Java, JavaScript, Artificial Intelligence, C++, Redux**
+- 💬 Ask me about **React.js, Node.js, Express, Typescript, JavaScript, Android Studio, Java, Artificial Intelligence, C++, Redux**
 
 - 📫 How to reach me **hetmodi007@gmail.com**
 
