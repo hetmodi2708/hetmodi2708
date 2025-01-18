@@ -10,7 +10,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetmodi2708" alt="hetmodi2708" /></a> </p>
 -->
-- 🌱 I’m currently learning **AWS Cloud Practitioner**
+- 🌱 I’m currently working on **AWS Cloud Practitioner**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hetmodi2708](https://github.com/hetmodi2708)
 
